@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071713772742",
+    "project_id": "login-register-firebase-a80b7",
+    "storage_bucket": "login-register-firebase-a80b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071713772742:android:4de36941ff17eaccbd23c7",
+        "android_client_info": {
+          "package_name": "com.example.foobapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071713772742-j6mijmvlfov459ap5frtrehalgl1mb4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7eYVMeKd4N4VPBY76ydXC6TnZIze5CvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071713772742-j6mijmvlfov459ap5frtrehalgl1mb4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
